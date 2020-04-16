@@ -1,0 +1,11 @@
+[
+    {"film_name":"Star Wars","released_year":"1977","total_gross":"2.2","studio":"true"},
+{"film_name":"The Empire Strikes Back","released_year":"1980","total_gross":"5.2","studio":"true"},
+{"film_name":"Return of the Jedi","released_year":"1983","total_gross":"9.1","studio":"true"},
+{"film_name":"Episode I - The Phantom Menace","released_year":"1999","total_gross":"15.0","studio":"true"},
+{"film_name":"Episode II - Attack of the Clones","released_year":"2002","total_gross":"26.5","studio":"true"},
+{"film_name":"Episode III - Revenge of the Sith","released_year":"2005","total_gross":"28.5","studio":"true"},
+{"film_name":"The Force Awakens","released_year":"2015","total_gross":"26.5","studio":"false"},
+{"film_name":"Rogue One","released_year":"2016","total_gross":"29.1","studio":"false"},
+{"film_name":"The Last Jedi","released_year":"2017","total_gross":"35.5","studio":"false"},
+{"film_name":"Solo","released_year":"2018","total_gross":"39.5","studio":"false"}]
